@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->KijaeJJangJJangman
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KijaeJJangJJangman)](https://github.com/KijaeJJangJJangman/github-readme-stats)
 [![Kijae's GitHub stats](https://github-readme-stats.vercel.app/api?username=KijaeJJangJJangman)](https://github.com/KijaeJJangJJangman/github-readme-stats)
 <a href="https://www.instagram.com/gijae7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -28,3 +27,4 @@ Here are some ideas to get you started:
 ![binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
 ![ripple](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 [![GitHub Streak](https://streak-stats.demolab.com?user=KijaeJJangJJangman&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
