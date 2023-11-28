@@ -40,4 +40,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KijaeJJangJJangman&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img src="\https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
+![footer Image](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
