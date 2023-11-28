@@ -16,10 +16,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KijaeJJangJJangman&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=KijaeJJangJJangman&show_icons=true">
 
+**BOJ:**
+
+
+
+[![https://solved.ac/profile/kimkijea7619](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 **Social Media:**
 
 <a href="https://www.instagram.com/gijae7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-[![https://solved.ac/profile/kimkijea7619](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
