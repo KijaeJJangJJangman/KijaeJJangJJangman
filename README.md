@@ -20,7 +20,7 @@
 
 
 
-[![solved.ac/profile/kimkijea7619](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![solved.ac/profile/kimkijea7619](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/profile/kimkijea7619)
 
 **Social Media:**
 
