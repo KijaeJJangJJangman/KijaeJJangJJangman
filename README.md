@@ -32,7 +32,6 @@
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
-![ripple](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
 **GitHub Streak:**
 
